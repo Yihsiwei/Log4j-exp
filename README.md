@@ -13,4 +13,6 @@
 `java -Dcom.sun.jndi.ldap.object.trustURLCodebase=true -jar Log4j-rce.jar`         
     
 下方是视频演示教学地址相信我你也可以变成光   
-``
+``    
+
+非常感谢HMCDC的分享
